@@ -1,3 +1,5 @@
+This program has two parts: First part figures out the DNA complement to a strand of DNA and outputs the result to a file. The second part is a simulation of a reverse polish notation calculator. 
+
 1.Brynn McGovern
 
 2730579
